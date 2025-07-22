@@ -112,6 +112,10 @@
 | - NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths <br> - NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery | Windows Explorer Address/Search Bars |
 | -NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePIDlMRU <br> - NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU | Open/Save and LastVisited Dialog MRUs |
 | - NTUSER.DAT\Software\Microsoft\Office\VERSION <br> - NTUSER.DAT\Software\Microsoft\Office\VERSION\UserMRU\LiveID_####\FileMRU | Office Recent Files |
+| - SYSTEM/ControlSet/Services/LanmanServer/Shares | To find shared files and directories |
+
+
+
 
 
 <br> <br> <br> <br> 
