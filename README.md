@@ -74,6 +74,8 @@
 | \Software\Microsoft\Windows NT\CurrentVersion\NetworkList | VPN Connection |
 | HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Winsock2\Parameters | contains information about the system's Winsock settings, which are used for network communication |
 | - C:\Windows\System32\Config\RegBack <br> - directory every ten days. registry keys might have been deleted/modified recently | Backups - RegBack |
+| NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU | Commands use to enumerate the network interface |
+
 
 <br> <br>
 
